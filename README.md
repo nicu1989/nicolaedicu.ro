@@ -1,2 +1,5 @@
 # nicolaedicu.ro
-Personal website
+
+Personal website: nicolaedicu.ro
+
+### BUILD: make -C docs html

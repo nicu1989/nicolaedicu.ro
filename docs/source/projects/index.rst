@@ -1,10 +1,11 @@
 Projects
 ========
 
-A selection of client and personal work. Replace the placeholders with real case studies.
+A selection of client and personal work.
 
 .. toctree::
    :maxdepth: 1
 
-   platform-refresh
-
+   eclipse-score
+   nrfconnect
+   other-open-source

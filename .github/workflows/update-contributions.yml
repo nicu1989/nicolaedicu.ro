@@ -1,15 +1,15 @@
-name: Publish Sphinx site
+name: Update contribution pages
 
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "17 5 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -27,6 +27,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python docs/scripts/update_github_contributions.py
+
+      - name: Commit updated pages
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update open source contribution pages"
+          file_pattern: docs/source/projects/eclipse-score.rst docs/source/projects/nrfconnect.rst docs/source/projects/other-open-source.rst
 
       - name: Build site
         run: make -C docs html

@@ -19,19 +19,19 @@ html_theme_options = {
   "page_layout": "compact",
   "nav_links": [
         {
-            "title": "CV",
-            "url": "cv_dummy"
-        },
-        {
             "title": "Open Source Contributions",
             "children": [
                 {
                     "title": "SCORE",
-                    "url": "score_dummy",
+                    "url": "projects/eclipse-score",
                 },
                 {
                     "title": "Nordic & Zephyr",
-                    "url": "nordic_dummy",
+                    "url": "projects/nrfconnect",
+                },
+                {
+                    "title": "Other Organizations",
+                    "url": "projects/other-open-source",
                 }
             ]
         },

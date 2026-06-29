@@ -40,11 +40,11 @@ Organizations
      - 1
      - 0
      - 0
-   * - `github <https://github.com/github>`_
+   * - `eclipse-dash <https://github.com/eclipse-dash>`_
      - 0
      - 0
      - 1
-   * - `eclipse-dash <https://github.com/eclipse-dash>`_
+   * - `github <https://github.com/github>`_
      - 0
      - 0
      - 1

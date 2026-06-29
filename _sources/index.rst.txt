@@ -2,7 +2,7 @@ Nicolae Dicu
 ============
 
 Embedded software engineer freelancer.
-This site doubles as my CV and a living lab for what I am learning.
+This site presents my expertise and services and is a journal for what I am learning and experimenting.
 
 
 At a glance
@@ -16,13 +16,14 @@ What I do
 ---------
 
 **Embedded software**
-  Flavours of choice: C, C++, some Rust. Platforms: Linux, FreeRTOS, Zephyr, QNX, AUTOSAR Classic.
+  Flavours of choice: C, C++, Scripting(Python, Bash). Platforms: Linux, FreeRTOS, Zephyr, QNX, AUTOSAR Classic.
 
 **CI/CD pipelines**
   GitHub Actions, Jenkins, GitLab CI, and build automation.
 
-**Integration and toolchains**
-  MQTT, CAN, UART, SPI, I2C, and diagnostic workflows.
+Linkedin profile
+----------------
+https://www.linkedin.com/in/nicolae-dicu/
 
 Customers
 -----------------

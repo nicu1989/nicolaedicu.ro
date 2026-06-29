@@ -1,0 +1,91 @@
+Other Open Source Contributions
+===============================
+
+All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
+in organization-owned repositories outside ``eclipse-score`` and ``nrfconnect``.
+Data is generated from GitHub search. Last updated: 2026-06-29.
+
+Snapshot
+--------
+
+- Authored pull requests: 11.
+- Merged pull requests: 3.
+- Open pull requests at collection time: 4.
+- Authored issues returned by GitHub search: 3.
+- Public source query: `authored other organizations pull requests <https://github.com/search?q=type%3Apr%20author%3Anicu1989%20-org%3Aeclipse-score%20-org%3Anrfconnect%20-user%3Anicu1989%20-org%3Asandbox-nicu&type=pullrequests>`_.
+
+Organizations
+-------------
+
+.. list-table::
+   :header-rows: 1
+
+   * - Organization
+     - Authored PRs
+     - Merged PRs
+     - Authored Issues
+   * - `qorix-group <https://github.com/qorix-group>`_
+     - 6
+     - 1
+     - 0
+   * - `eclipse-iceoryx <https://github.com/eclipse-iceoryx>`_
+     - 3
+     - 1
+     - 0
+   * - `zephyrproject-rtos <https://github.com/zephyrproject-rtos>`_
+     - 1
+     - 1
+     - 0
+   * - `sphinx-extensions2 <https://github.com/sphinx-extensions2>`_
+     - 1
+     - 0
+     - 0
+   * - `eclipse-dash <https://github.com/eclipse-dash>`_
+     - 0
+     - 0
+     - 1
+   * - `aspect-build <https://github.com/aspect-build>`_
+     - 0
+     - 0
+     - 1
+   * - `github <https://github.com/github>`_
+     - 0
+     - 0
+     - 1
+
+Pull Requests by Repository
+---------------------------
+
+.. list-table::
+   :header-rows: 1
+
+   * - Repository
+     - Authored PRs
+     - Merged PRs
+   * - `eclipse-iceoryx/iceoryx <https://github.com/eclipse-iceoryx/iceoryx>`_
+     - 2
+     - 0
+   * - `qorix-group/qor-runtime <https://github.com/qorix-group/qor-runtime>`_
+     - 2
+     - 1
+   * - `eclipse-iceoryx/iceoryx2 <https://github.com/eclipse-iceoryx/iceoryx2>`_
+     - 1
+     - 1
+   * - `qorix-group/iceoryx2 <https://github.com/qorix-group/iceoryx2>`_
+     - 1
+     - 0
+   * - `qorix-group/iceoryx <https://github.com/qorix-group/iceoryx>`_
+     - 1
+     - 0
+   * - `zephyrproject-rtos/zephyr <https://github.com/zephyrproject-rtos/zephyr>`_
+     - 1
+     - 1
+   * - `sphinx-extensions2/sphinx-rust <https://github.com/sphinx-extensions2/sphinx-rust>`_
+     - 1
+     - 0
+   * - `qorix-group/persistency <https://github.com/qorix-group/persistency>`_
+     - 1
+     - 0
+   * - `qorix-group/sphinx-rust <https://github.com/qorix-group/sphinx-rust>`_
+     - 1
+     - 0

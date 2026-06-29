@@ -10,9 +10,13 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 html_theme = "shibuya"
 html_title = "Nicolae Dicu"
+html_baseurl = "https://nicolaedicu.ro/"
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_extra_path = ["_extra"]
+html_context = {
+  "goatcounter_url": "https://nicolaedicu.goatcounter.com/count",
+}
 
 html_theme_options = {
   "github_url": "https://github.com/nicu1989/nicolaedicu.ro",

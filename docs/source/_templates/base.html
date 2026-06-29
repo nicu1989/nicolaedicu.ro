@@ -1,0 +1,7 @@
+{% extends "!base.html" %}
+
+{% block extrahead %}
+{{ super() }}
+<script data-goatcounter="{{ goatcounter_url }}"
+        async src="https://gc.zgo.at/count.js"></script>
+{% endblock %}

@@ -35,15 +35,15 @@ html_theme_options = {
                 }
             ]
         },
-        {
-            "title": "Hobby Projects",
-            "url": "writing",
-            "children": [
-                {
-                    "title": "Fitcamx repair",
-                    "url": "fitcamx_dummy",
-                }
-            ]
-        },
+        #{
+        #    "title": "Hobby Projects",
+        #    "url": "writing",
+        #    "children": [
+        #        {
+        #            "title": "Fitcamx repair",
+        #            "url": "fitcamx_dummy",
+        #        }
+        #    ]
+        #},
   ]
 }

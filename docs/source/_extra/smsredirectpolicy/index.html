@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="SMS Redirect privacy policy: message forwarding, local storage, retention, deletion and developer contact.">
+  <title>SMS Redirect privacy policy</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0; font: 1rem/1.7 system-ui, sans-serif; background: #fafafa; color: #1b2635; }
+    main { max-width: 48rem; margin: auto; padding: 2rem 1.25rem 4rem; overflow-wrap: anywhere; }
+    h1 { font-size: clamp(1.7rem, 5vw, 2.3rem); line-height: 1.2; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.25rem; line-height: 1.4; margin-top: 2rem; }
+    a { color: #1559aa; text-underline-offset: .2em; }
+    a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #101820; color: #e4eaf1; }
+      a { color: #8ec3ff; }
+    }
+  </style>
+</head>
+<body>
+<main>
+<h1>SMS Redirect privacy policy</h1>
+
+<p><strong>App:</strong> SMS Redirect</p>
+
+<p><strong>Developer support and privacy contact:</strong> <a href="mailto:nicolae.dicu.nd@gmail.com">nicolae.dicu.nd@gmail.com</a></p>
+
+<p><strong>Last updated:</strong> 1 October 2026</p>
+
+<h2>What the app does</h2>
+
+<p>SMS Redirect forwards newly received SMS from your Android phone to phone numbers or email addresses that you configure. You must complete setup, grant permissions and explicitly enable forwarding. Only use a phone you own or have permission to manage. Anyone receiving forwarded messages can see their contents, including potentially sensitive information.</p>
+
+<h2>Data accessed and transmitted</h2>
+
+<p>The app accesses incoming SMS text, sender numbers or sender IDs, message timestamps, and the receiving SIM identifier. It evaluates your rules on your phone. For matching messages it sends the body, original sender and received time to the chosen destination through your carrier or, for email, your configured SMTP server and email account. This happens in the background while forwarding is enabled.</p>
+
+<p>For email you enter your provider's SMTP server, port, security mode, sender address, username and password or app password. The password is encrypted locally using Android Keystore. It is decrypted in memory for authentication and transmitted only to your selected SMTP server over TLS. The app does not read your email inbox. Your provider and recipients process forwarded content under their own policies.</p>
+
+<p>For SMS delivery the app accesses active SIM subscriptions to let you explicitly select a sending SIM. It does not request broad contacts access, SMS history access, location, call logs, phone-number access, MMS or RCS. It does not import your inbox.</p>
+
+<p>The app publisher operates no forwarding backend and includes no advertising or analytics SDK. Message contents and email passwords are not included in application diagnostic logs or notifications. Your carrier and selected email provider perform the processing necessary for authentication and transport.</p>
+
+<h2>Local storage and retention</h2>
+
+<p>Rules, destination addresses, SMTP server settings, sender address and username, selected SIMs and preferences remain on your phone until changed or app data is removed. Pending bodies are encrypted using Android Keystore-backed AES-GCM. Bodies are deleted from job records after acceptance, permanent failure, uncertainty, cancellation or expiry. Pending jobs expire 24 hours after insertion. There is no automatic resend of an uncertain outcome.</p>
+
+<p>Activity metadata includes sender, destination, rule name, timestamps, channel and result, but no message body. It is retained for seven days, and you can clear completed history sooner in Settings or Activity. Keyed duplicate fingerprints and segment-count records remain separately for up to seven days to prevent duplicate forwarding and enforce daily limits. They contain no raw message bodies.</p>
+
+<p>Expiry and retention cleanup run when Android permits scheduled maintenance or the app next opens. Force-stop, a locked reboot or operating-system restrictions can delay cleanup and forwarding. App backups and device-to-device transfer of this data are disabled; screen capture/Recents content is protected by Android's secure-window flag. Clearing local data does not retract messages already sent to recipients, the carrier, or your email provider.</p>
+
+<h2>Your controls</h2>
+
+<p>You can pause all forwarding, disable/edit/delete rules, change destinations, disconnect email, revoke Android permissions and clear completed activity. Pausing or changing a rule cancels pending jobs. A send already in progress can still finish; it cannot be recalled. Incoming messages while paused are skipped. Manual tests and resends require explicit action, with warnings about carrier charges and possible duplicates.</p>
+
+<p>Disconnecting email cancels pending email and removes the saved SMTP configuration and encrypted password. You can revoke an app password through your provider. Uninstalling or clearing app storage removes local configuration, queue and keys, but does not delete remote copies from providers or recipients.</p>
+
+<p>If upgrading a former Gmail-integrated build, remove old authorization in your Google Account's third-party connections. The current app no longer uses that authorization.</p>
+
+<h2>Transport, costs and limitations</h2>
+
+<p>SMTP authentication and submission require TLS and server certificate validation. Onward email delivery and recipient storage are controlled by mail services. SMS transport does not provide an app-controlled end-to-end encryption guarantee. Your carrier may charge for each segment, and long/Unicode forwards may require multiple segments. “Sent” in Activity means carrier/email-server acceptance, not recipient delivery or reading. Some verification-code messages may be delayed by Android. The app is not intended to guarantee immediate forwarding of OTP or emergency messages.</p>
+
+<h2>Contact and updates</h2>
+
+<p>Use the developer support and privacy email above to ask about this policy. Please do not send SMS contents, passwords or verification codes with a support request. Material changes to data use require an updated policy and, where appropriate, a new in-app disclosure.</p>
+</main>
+</body>
+</html>

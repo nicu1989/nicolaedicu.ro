@@ -36,3 +36,8 @@ Latest writing
 --------------
 
 - :doc:`Link to a post <articles/first-post>`
+
+App privacy policies
+--------------------
+
+- `SMS Redirect privacy policy </smsredirectpolicy/>`_

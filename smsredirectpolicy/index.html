@@ -28,7 +28,7 @@
 
 <p><strong>Developer support and privacy contact:</strong> <a href="mailto:nicolae.dicu.nd@gmail.com">nicolae.dicu.nd@gmail.com</a></p>
 
-<p><strong>Last updated:</strong> 1 October 2026</p>
+<p><strong>Last updated:</strong> 5 October 2026</p>
 
 <h2>What the app does</h2>
 
@@ -40,7 +40,9 @@
 
 <p>For email you enter your provider's SMTP server, port, security mode, sender address, username and password or app password. The password is encrypted locally using Android Keystore. It is decrypted in memory for authentication and transmitted only to your selected SMTP server over TLS. The app does not read your email inbox. Your provider and recipients process forwarded content under their own policies.</p>
 
-<p>For SMS delivery the app accesses active SIM subscriptions to let you explicitly select a sending SIM. It does not request broad contacts access, SMS history access, location, call logs, phone-number access, MMS or RCS. It does not import your inbox.</p>
+<p>For SMS delivery the app accesses active SIM subscriptions to let you explicitly select a sending SIM. It does not request broad contacts access, SMS history access, location, call logs, access to your own device phone number, MMS or RCS. It does not import your inbox.</p>
+
+<p>When you choose a sender or destination from contacts, Android's contacts picker lets you select one phone number and temporarily grants the app access to that selected phone row. The app reads the selected number and its international-format equivalent when available. It does not read or store contact names, photos, email addresses or the rest of your address book. The selected number is stored only if you save the rule, and is then used like a number you typed yourself. You can edit or delete it in Rules. Local numbers may be formatted using the SIM country or device locale; check the country code before saving.</p>
 
 <p>The app publisher operates no forwarding backend and includes no advertising or analytics SDK. Message contents and email passwords are not included in application diagnostic logs or notifications. Your carrier and selected email provider perform the processing necessary for authentication and transport.</p>
 

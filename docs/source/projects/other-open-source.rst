@@ -3,7 +3,7 @@ Other Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in organization-owned repositories outside ``eclipse-score`` and ``nrfconnect``.
-Data is generated from GitHub search. Last updated: 2026-06-29.
+Data is generated from GitHub search. Last updated: 2026-11-10.
 
 Snapshot
 --------
@@ -40,11 +40,11 @@ Organizations
      - 1
      - 1
      - 0
-   * - `aspect-build <https://github.com/aspect-build>`_
+   * - `eclipse-dash <https://github.com/eclipse-dash>`_
      - 0
      - 0
      - 1
-   * - `eclipse-dash <https://github.com/eclipse-dash>`_
+   * - `bazel-contrib <https://github.com/bazel-contrib>`_
      - 0
      - 0
      - 1

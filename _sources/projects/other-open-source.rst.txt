@@ -44,11 +44,11 @@ Organizations
      - 0
      - 0
      - 1
-   * - `bazel-contrib <https://github.com/bazel-contrib>`_
+   * - `github <https://github.com/github>`_
      - 0
      - 0
      - 1
-   * - `github <https://github.com/github>`_
+   * - `bazel-contrib <https://github.com/bazel-contrib>`_
      - 0
      - 0
      - 1

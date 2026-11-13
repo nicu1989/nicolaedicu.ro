@@ -3,15 +3,15 @@ Other Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in organization-owned repositories outside ``eclipse-score`` and ``nrfconnect``.
-Data is generated from GitHub search. Last updated: 2026-11-12.
+Data is generated from GitHub search. Last updated: 2026-11-13.
 
 Snapshot
 --------
 
-- Authored pull requests: 11.
+- Authored pull requests: 12.
 - Merged pull requests: 3.
-- Open pull requests at collection time: 4.
-- Authored issues returned by GitHub search: 3.
+- Open pull requests at collection time: 5.
+- Authored issues returned by GitHub search: 4.
 - Public source query: `authored other organizations pull requests <https://github.com/search?q=type%3Apr%20author%3Anicu1989%20-org%3Aeclipse-score%20-org%3Anrfconnect%20-user%3Anicu1989%20-org%3Asandbox-nicu&type=pullrequests>`_.
 
 Organizations
@@ -32,19 +32,23 @@ Organizations
      - 3
      - 1
      - 0
-   * - `sphinx-extensions2 <https://github.com/sphinx-extensions2>`_
+   * - `aboutcode-org <https://github.com/aboutcode-org>`_
      - 1
      - 0
-     - 0
+     - 1
    * - `zephyrproject-rtos <https://github.com/zephyrproject-rtos>`_
      - 1
      - 1
      - 0
-   * - `github <https://github.com/github>`_
+   * - `sphinx-extensions2 <https://github.com/sphinx-extensions2>`_
+     - 1
+     - 0
+     - 0
+   * - `eclipse-dash <https://github.com/eclipse-dash>`_
      - 0
      - 0
      - 1
-   * - `eclipse-dash <https://github.com/eclipse-dash>`_
+   * - `github <https://github.com/github>`_
      - 0
      - 0
      - 1
@@ -68,6 +72,9 @@ Pull Requests by Repository
    * - `qorix-group/qor-runtime <https://github.com/qorix-group/qor-runtime>`_
      - 2
      - 1
+   * - `aboutcode-org/commoncode <https://github.com/aboutcode-org/commoncode>`_
+     - 1
+     - 0
    * - `eclipse-iceoryx/iceoryx2 <https://github.com/eclipse-iceoryx/iceoryx2>`_
      - 1
      - 1

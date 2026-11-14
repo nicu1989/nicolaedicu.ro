@@ -3,7 +3,7 @@ Nordic nRF Connect Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in the `nrfconnect <https://github.com/nrfconnect>`_ GitHub organization.
-Data is generated from GitHub search. Last updated: 2026-11-13.
+Data is generated from GitHub search. Last updated: 2026-11-14.
 
 Snapshot
 --------

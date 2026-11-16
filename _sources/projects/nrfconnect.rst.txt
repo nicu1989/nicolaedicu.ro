@@ -3,14 +3,14 @@ Nordic nRF Connect Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in the `nrfconnect <https://github.com/nrfconnect>`_ GitHub organization.
-Data is generated from GitHub search. Last updated: 2026-11-15.
+Data is generated from GitHub search. Last updated: 2026-11-16.
 
 Snapshot
 --------
 
 - Authored pull requests: 59.
 - Merged pull requests: 39.
-- Open pull requests at collection time: 8.
+- Open pull requests at collection time: 7.
 - Authored issues returned by GitHub search: 0.
 - Public source query: `authored nrfconnect pull requests <https://github.com/search?q=type%3Apr%20author%3Anicu1989%20org%3Anrfconnect&type=pullrequests>`_.
 

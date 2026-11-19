@@ -3,14 +3,14 @@ Eclipse SCORE Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in the `eclipse-score <https://github.com/eclipse-score>`_ GitHub organization.
-Data is generated from GitHub search. Last updated: 2026-11-18.
+Data is generated from GitHub search. Last updated: 2026-11-19.
 
 Snapshot
 --------
 
-- Authored pull requests: 122.
+- Authored pull requests: 123.
 - Merged pull requests: 99.
-- Open pull requests at collection time: 1.
+- Open pull requests at collection time: 2.
 - Authored issues returned by GitHub search: 49.
 - Public source query: `authored SCORE pull requests <https://github.com/search?q=type%3Apr%20author%3Anicu1989%20org%3Aeclipse-score&type=pullrequests>`_.
 
@@ -44,15 +44,15 @@ Pull Requests by Repository
    * - `.eclipsefdn <https://github.com/eclipse-score/.eclipsefdn>`_
      - 12
      - 12
+   * - `sbom-tool <https://github.com/eclipse-score/sbom-tool>`_
+     - 7
+     - 6
    * - `bazel_registry <https://github.com/eclipse-score/bazel_registry>`_
      - 7
      - 6
    * - `persistency <https://github.com/eclipse-score/persistency>`_
      - 7
      - 5
-   * - `sbom-tool <https://github.com/eclipse-score/sbom-tool>`_
-     - 6
-     - 6
    * - `cicd-workflows <https://github.com/eclipse-score/cicd-workflows>`_
      - 6
      - 4

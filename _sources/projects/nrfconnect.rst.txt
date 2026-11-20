@@ -3,14 +3,14 @@ Nordic nRF Connect Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in the `nrfconnect <https://github.com/nrfconnect>`_ GitHub organization.
-Data is generated from GitHub search. Last updated: 2026-11-19.
+Data is generated from GitHub search. Last updated: 2026-11-20.
 
 Snapshot
 --------
 
 - Authored pull requests: 60.
-- Merged pull requests: 43.
-- Open pull requests at collection time: 4.
+- Merged pull requests: 44.
+- Open pull requests at collection time: 3.
 - Authored issues returned by GitHub search: 0.
 - Public source query: `authored nrfconnect pull requests <https://github.com/search?q=type%3Apr%20author%3Anicu1989%20org%3Anrfconnect&type=pullrequests>`_.
 
@@ -33,7 +33,7 @@ Pull Requests by Repository
      - Merged PRs
    * - `sdk-nrf <https://github.com/nrfconnect/sdk-nrf>`_
      - 54
-     - 39
+     - 40
    * - `sdk-zephyr <https://github.com/nrfconnect/sdk-zephyr>`_
      - 3
      - 2

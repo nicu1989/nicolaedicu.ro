@@ -36,15 +36,15 @@ Organizations
      - 1
      - 0
      - 1
-   * - `zephyrproject-rtos <https://github.com/zephyrproject-rtos>`_
-     - 1
-     - 1
-     - 0
    * - `sphinx-extensions2 <https://github.com/sphinx-extensions2>`_
      - 1
      - 0
      - 0
-   * - `github <https://github.com/github>`_
+   * - `zephyrproject-rtos <https://github.com/zephyrproject-rtos>`_
+     - 1
+     - 1
+     - 0
+   * - `eclipse-dash <https://github.com/eclipse-dash>`_
      - 0
      - 0
      - 1
@@ -52,7 +52,7 @@ Organizations
      - 0
      - 0
      - 1
-   * - `eclipse-dash <https://github.com/eclipse-dash>`_
+   * - `github <https://github.com/github>`_
      - 0
      - 0
      - 1

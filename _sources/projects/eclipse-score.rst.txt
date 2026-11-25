@@ -3,15 +3,15 @@ Eclipse SCORE Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in the `eclipse-score <https://github.com/eclipse-score>`_ GitHub organization.
-Data is generated from GitHub search. Last updated: 2026-11-24.
+Data is generated from GitHub search. Last updated: 2026-11-25.
 
 Snapshot
 --------
 
-- Authored pull requests: 124.
-- Merged pull requests: 100.
+- Authored pull requests: 126.
+- Merged pull requests: 102.
 - Open pull requests at collection time: 2.
-- Authored issues returned by GitHub search: 50.
+- Authored issues returned by GitHub search: 51.
 - Public source query: `authored SCORE pull requests <https://github.com/search?q=type%3Apr%20author%3Anicu1989%20org%3Aeclipse-score&type=pullrequests>`_.
 
 Contribution Areas
@@ -45,8 +45,8 @@ Pull Requests by Repository
      - 12
      - 12
    * - `sbom-tool <https://github.com/eclipse-score/sbom-tool>`_
-     - 8
-     - 7
+     - 9
+     - 9
    * - `bazel_registry <https://github.com/eclipse-score/bazel_registry>`_
      - 7
      - 6
@@ -68,6 +68,9 @@ Pull Requests by Repository
    * - `logging <https://github.com/eclipse-score/logging>`_
      - 2
      - 2
+   * - `feo <https://github.com/eclipse-score/feo>`_
+     - 1
+     - 0
    * - `baselibs_rust <https://github.com/eclipse-score/baselibs_rust>`_
      - 1
      - 1

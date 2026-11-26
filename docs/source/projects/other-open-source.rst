@@ -3,7 +3,7 @@ Other Open Source Contributions
 
 All-time public contribution data for `nicu1989 <https://github.com/nicu1989>`_
 in organization-owned repositories outside ``eclipse-score`` and ``nrfconnect``.
-Data is generated from GitHub search. Last updated: 2026-11-25.
+Data is generated from GitHub search. Last updated: 2026-11-26.
 
 Snapshot
 --------
@@ -36,19 +36,19 @@ Organizations
      - 1
      - 0
      - 1
-   * - `sphinx-extensions2 <https://github.com/sphinx-extensions2>`_
-     - 1
-     - 0
-     - 0
    * - `zephyrproject-rtos <https://github.com/zephyrproject-rtos>`_
      - 1
      - 1
      - 0
-   * - `bazel-contrib <https://github.com/bazel-contrib>`_
+   * - `sphinx-extensions2 <https://github.com/sphinx-extensions2>`_
+     - 1
+     - 0
+     - 0
+   * - `github <https://github.com/github>`_
      - 0
      - 0
      - 1
-   * - `github <https://github.com/github>`_
+   * - `bazel-contrib <https://github.com/bazel-contrib>`_
      - 0
      - 0
      - 1
